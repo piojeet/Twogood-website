@@ -1,0 +1,32 @@
+#page10 .top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    padding: 5rem 24px;
+    gap: 2rem;
+    font-family: sans-serif;
+    color: #808080;
+}
+
+#page10 .top a {
+    text-decoration: none;
+    color: #808080;
+}
+
+#page10 .bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 4rem;
+}
+
+#page10 .bottom p {
+    width: 70%;
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #000000;
+    line-height: 1.5;
+    text-align: center;
+}

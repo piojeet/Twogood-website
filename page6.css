@@ -1,0 +1,39 @@
+#page6 {
+    text-align: center;
+    padding: 6rem 0;
+}
+
+#page6 h2 {
+    font-size: 5vw;
+    font-family: futura;
+    font-weight: 900;
+    padding-bottom: 4rem;
+    line-height: 1.1;
+}
+
+#page6 a {
+    font-size: 13px;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-decoration: none;
+    display: inline-flex;
+    width: 20rem;
+    background: #000;
+    color: #f7f7f7;
+    height: 3rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3rem;
+    margin-bottom: 2rem;
+    transition: .2s;
+}
+
+#page6 a:hover {
+    color: #aeaeae;
+}
+
+#page6 p {
+    font-size: 15px;
+    font-family: sans-serif;
+    line-height: 1.3;
+}

@@ -1,0 +1,30 @@
+#page8 .head {
+    display: flex;
+    padding: 6rem 0 .2rem;
+    align-items: center;
+    border-bottom: 1px solid #8d8d8d;
+    /* background-color: red; */
+
+}
+
+#page8 {
+    padding: 0 24px;
+}
+
+#page8 .head textarea {
+    width: 100%;
+    resize: none;
+    font-size: 3rem;
+    height: 4rem;
+    font-weight: 900;
+    color: #000;
+    border: none;
+    outline: none;
+    background: transparent;
+    overflow: hidden;
+    text-transform: uppercase;
+}
+
+#page8 .head textarea::placeholder {
+    color: #000;
+}

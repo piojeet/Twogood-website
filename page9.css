@@ -1,0 +1,40 @@
+#page9 {
+    display: flex;
+    padding: 0 24px;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 6rem;
+}
+
+#page9 a {
+    text-decoration: none;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+#page9 li {
+    padding-bottom: .2rem;
+
+}
+
+#page9 h4 {
+    font-size: .8rem;
+    font-family: sans-serif;
+    padding: 1rem 0;
+    color: #a9a9a9;
+}
+
+.right {
+    text-align: end;
+    list-style: none;
+}
+
+.left {
+    text-align: start;
+    list-style: none;
+}
+
+.center svg {
+    fill: #000;
+}

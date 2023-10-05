@@ -1,0 +1,45 @@
+.elem .dets {
+    height: 50px;
+    width: 70%;
+    border-radius: 50px;
+    position: absolute;
+    background: papayawhip;
+    cursor: pointer;
+}
+
+.elem .dets .card a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: red; */
+    height: 50px;
+    padding: 0 1rem;
+    text-decoration: none;
+    color: #000000;
+    
+    text-transform: uppercase;
+}
+
+.elem .dets .card p, .elem .dets .card h3 {
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.elem .dets .card h3 {
+    font-weight: 750;
+}
+
+.elem .dets .card div {
+    width: 8px;
+    height: 8px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+#green {
+    background: #c3d8c5;
+}
+
+#light-green {
+    background: #f7f7f7;
+}
